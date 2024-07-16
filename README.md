@@ -1,16 +1,15 @@
-## Hi there 👋
+![Banner](img/logo.png)
 
-<!--
-**vinc1am/vinc1am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nice to see you.
 
-Here are some ideas to get you started:
+Welcome to my page! I'm Vincent, a Full Stack AI Engineer from Hong Kong.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Featured Projects
+
+| | Project | Description |
+|-------------|---------|---------|
+| <img src="https://github.com/vinc1am/trading-dash/raw/main/assets/images/logo.svg" width="100" height="100"> | [Trading Dash](https://github.com/vinc1am/trading-dash) | Stocks algo-trading, portfolio optimisation, and visualisation  |
+
+
+
