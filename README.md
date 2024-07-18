@@ -2,7 +2,7 @@
 
 # Nice to see you.
 
-Welcome to my page! I'm Vincent, a Full Stack AI Engineer from Hong Kong. Feel free to explore my open-source projects.
+Welcome to my page! I'm Vincent, a AI Engineer from Hong Kong. Feel free to explore my open-source projects.
 
 ## Featured Projects
 
